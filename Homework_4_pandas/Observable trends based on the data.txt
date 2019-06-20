@@ -1,3 +1,7 @@
 Observable trends based on the data
 
-1.
+1. There is a trend that the more budget per student is the worse the academic performance is. The schools that spend more than $645 on each student on average suffer the lowest mean reading and math score.
+
+2. Regarding the size of the schools, this is no obvious difference in academic performance between the small and medium, but mean scores of large schools are significantly lower than the former two. 
+
+3. The type of schools is also an important clue about how well the average grades are. The average math and reading score of district school is 76.96 and 80.97 respectively, compared with 83.47 and 83.90 of the charter school.
